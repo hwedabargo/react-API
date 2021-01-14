@@ -1,0 +1,24 @@
+.user-card{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 50px;
+  background-color: rgb(47, 4, 61);
+}
+.mb-2{
+  margin-right: 20px;
+  color: rgb(10, 6, 6);
+  
+}
+.name{
+  color:rgb(94, 7, 75); 
+}
+.title{
+  color:rgb(94, 7, 75); 
+}
+.mb-2:hover{ 
+	color:rgb(94, 7, 75); 
+	margin: 0.1%; 
+	transition: 1.5s ease; 
+	cursor: pointer; 
+}  
